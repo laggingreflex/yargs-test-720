@@ -1,0 +1,13 @@
+{
+  "name": "yargs-test-720",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "bin": "index.js",
+  "yargs": {
+    "duplicate-arguments-array": false
+  },
+  "dependencies": {
+    "yargs": "^6.5.0"
+  }
+}
